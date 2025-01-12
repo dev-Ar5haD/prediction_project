@@ -1,6 +1,5 @@
 # Convertion Prediction
 
-![Project Logo](https://via.placeholder.com/150)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -83,4 +82,4 @@ This project is free of license. You are free to use, modify, and distribute thi
 
 ---
 
-*This README was generated with ❤️ by [Your Name].*
+*Thank You*
