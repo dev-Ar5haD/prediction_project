@@ -1,5 +1,5 @@
 # Convertion Prediction
-![Project Logo](https://www.google.com/imgres?q=machine%20learning%20prediction&imgurl=https%3A%2F%2Fimg-c.udemycdn.com%2Fcourse%2F750x422%2F4473924_73af_3.jpg&imgrefurl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachine-learning-disease-prediction-and-drug-recommendation%2F&docid=vAsSv78nUKpAOM&tbnid=Qras_gjCJX3C9M&vet=12ahUKEwiZi_iNnPCKAxVG3TgGHQd5AKMQM3oECHsQAA..i&w=750&h=422&hcb=2&ved=2ahUKEwiZi_iNnPCKAxVG3TgGHQd5AKMQM3oECHsQAA)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
