@@ -1,4 +1,4 @@
-# Combined Project
+# Convertion Prediction
 
 ![Project Logo](https://via.placeholder.com/150)
 
@@ -9,12 +9,10 @@
 - [Usage](#usage)
 - [Landing Page](#landing-page)
 - [Batch Prediction](#batch-prediction)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
-Welcome to the Combined Project! This project is designed to predict various outcomes using different machine learning models. It includes predictions for lead conversion, intern placement, and intern attrition.
+Welcome to the Convertion Prediction Project! This project is designed to predict various outcomes using different machine learning models. It includes predictions for lead conversion, intern placement, and intern attrition.
 
 ## Features
 - **Lead Conversion Prediction**: Predicts whether a lead will convert based on various features.
@@ -28,8 +26,8 @@ To get started with the Combined Project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/combined-project.git
-   cd combined-project
+   git clone https://github.com/dev-Ar5haD/prediction_project.git
+   cd prediction_project
    ```
 
 2. **Install dependencies**:
@@ -43,7 +41,7 @@ To get started with the Combined Project, follow these steps:
    ```
 
 ## Usage
-After installation, you can use the Combined Project by navigating to the appropriate URLs for each model. Here are some examples:
+After installation, you can use the Project by navigating to the appropriate URLs for each model. Here are some examples:
 
 - **Lead Conversion Prediction**:
   - URL: `/model1`
@@ -64,7 +62,7 @@ The landing page provides a user-friendly interface to select the desired predic
 - **Intern Attrition Prediction**: Navigate to the intern attrition prediction form.
 
 ## Batch Prediction
-The Combined Project supports batch predictions, allowing users to upload CSV files for bulk predictions. Here are the steps to use batch prediction:
+The Project supports batch predictions, allowing users to upload CSV files for bulk predictions. Here are the steps to use batch prediction:
 
 1. **Lead Conversion Batch Prediction**:
    - URL: `/predict_batch_model1`
@@ -80,22 +78,8 @@ The Combined Project supports batch predictions, allowing users to upload CSV fi
 
 The results will be returned as a downloadable CSV file with the predictions.
 
-## Contributing
-We welcome contributions from the community! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-Please make sure to update tests as appropriate.
-
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
+This project is free of license. You are free to use, modify, and distribute this project without any restrictions.
 
 ---
 
