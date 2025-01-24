@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-Welcome to the Convertion Prediction Project! This project is designed to predict various outcomes using different machine learning models. It includes predictions for lead conversion, intern placement, and intern attrition.
+Welcome to the Predictive Analytics Platform Project! This project is designed to predict various outcomes using different machine learning models. It includes predictions for lead conversion, intern placement, and intern attrition.
 
 ## Features
 - **Lead Conversion Prediction**: Predicts whether a lead will convert based on various features.
