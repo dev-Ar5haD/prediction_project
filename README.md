@@ -1,4 +1,4 @@
-# Convertion Prediction
+# Predictive Analytics Platform
 
 
 ## Table of Contents
